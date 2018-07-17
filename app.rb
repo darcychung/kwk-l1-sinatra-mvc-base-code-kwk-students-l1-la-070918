@@ -6,7 +6,7 @@ class App<Sinatra::Base
   end
 end
   
-  class app 
+  class App 
   get /"darcy" do
   "Hi I'm Darcy"
 end
