@@ -5,6 +5,6 @@ class App<Sinatra::Base
     "Hello, World!"
   end
   
-get /"darcy" do
+get "/darcy" do
   "Hi I'm Darcy"
 end
