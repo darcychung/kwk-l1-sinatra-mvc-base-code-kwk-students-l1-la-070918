@@ -6,6 +6,6 @@ class App<Sinatra::Base
   end
   
 get "/darcy" do
-  "Hi I'm Darcy"
+  "Hi I'm Darcy!"
 end
 end
